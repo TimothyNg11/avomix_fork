@@ -1,8 +1,10 @@
 .venv/
+.venv-1/
 venv/
 env/
+**/.venv/
 
-__pycache__/
+**/__pycache__/
 
 songs/
 
